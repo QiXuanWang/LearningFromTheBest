@@ -10,6 +10,7 @@
 <p>Best Book on DeepLearning: www.deeplearningbook.com (by now, it's the only one and it's free)</p>
 <p>Best resource site: </p>
 <p>Best Paper Site: arxiv.org</p>
+<p>Best Bio Paper Site: bioarxiv.org</p>
 
 <h2>Algorithm:</h2>
 <p>Best Course: MIT "Introduction to Algorithms"</p>

@@ -70,3 +70,7 @@ To be added
 <h2>Cancer Imaging:</h2>
 <p>Cone Beam Imaging: "https://sinews.siam.org/Details-Page/achieving-real-time-cone-beam-ct-reconstruction-1" </p>
 <p>Image Reconstruct: "A Deep Learning Architecture for Limited-Angle Computed Tomography Reconstruction" (https://pdfs.semanticscholar.org/ae41/8b253c235138ef1671fa1053be2f17ef2aa8.pdf) </p>
+
+
+<h2>Not Related:</h2>
+<p>How to Get Into Harvard and the Ivy League: https://blog.prepscholar.com/how-to-get-into-harvard-and-the-ivy-league-by-a-harvard-alum#part2 </p>

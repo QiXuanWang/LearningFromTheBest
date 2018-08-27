@@ -55,3 +55,18 @@ To be added
 <p>Best Course:</p>
 <p>Best TimeSeries DataBase: Influx (becuase of IoT)</p>
 <p>Best DB: mysql/mariadb (easy available)</p>
+
+
+---- Not Necessary Best Resource ----
+<h2>Bioinformatics:</h2>
+<p>Best Deep Learning Usage Summary: "Deep learning in bioinformatics"(https://academic.oup.com/bib/article/18/5/851/2562808)</p>
+<p>Alternative Deep Learning usage Analysis: "Opportunities and obstacles for deep learning in biology and medicine" (http://rsif.royalsocietypublishing.org/content/15/141/20170387#sec-15) </p>
+<p> Best Online Course: "Deep Learning in Genomics and Biomedicine" (https://canvas.stanford.edu/courses/51037) </p>
+
+<p> Additional Read:</p>
+<p> Nanopore tech: "The evolution of nanopore sequencing" (https://www.frontiersin.org/articles/10.3389/fgene.2014.00449/full) </p>
+<p> Tool Comparison: "Comprehensive comparison of Pacific Biosciences and Oxford Nanopore Technologies and their applications to transcriptome analysis" (https://f1000research.com/articles/6-100/v1) </p>
+
+<h2>Cancer Imaging:</h2>
+<p>Cone Beam Imaging: "https://sinews.siam.org/Details-Page/achieving-real-time-cone-beam-ct-reconstruction-1" </p>
+<p>Image Reconstruct: "A Deep Learning Architecture for Limited-Angle Computed Tomography Reconstruction" (https://pdfs.semanticscholar.org/ae41/8b253c235138ef1671fa1053be2f17ef2aa8.pdf) </p>

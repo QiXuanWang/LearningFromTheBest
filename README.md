@@ -18,6 +18,7 @@
 <p>Bio Paper Site: bioarxiv.org</p>
 <p>Blog site: http://www.wildml.com/ </p>
 <p>Blog site2: https://bair.berkeley.edu/blog/ </p>
+<p>Blog site3: https://spinningup.openai.com/en/latest/index.html </p>
 <p>Introduction ML Package: scikit-learn (out of box and ease of use)</p>
 <p>Advanced ML Packages: PyTorch 1.0, TensorFlow 2.0, MxNet 1.3</p>
 

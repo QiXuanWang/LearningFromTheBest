@@ -10,19 +10,31 @@
 <p>Book on Reinforcement Learning:  Reinforcement Learning: An Introduction </p>
 <p>Course on Reinforcement Learning: David Silver's course </p>
 <p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018 </p>
+<p>Papers: http://www.arxiv-sanity.com/ </p>
 
 <h2>Machine Learning Papers, blogs, frameworks:</h2>
 <p>RL framework: openAI's gym; facebook's ELF; deepmind's pysc2, alphaGo Zero</p>
-<p>resource site: </p>
 <p>Paper Site: arxiv.org</p>
-<p>Bio Paper Site: bioarxiv.org</p>
+<p>Paper with Code: https://paperswithcode.com/ </p>
+<p>Paper with cite/references: https://www.semanticscholar.org/paper/ </p>
+<p>Best papers: https://jeffhuang.com/best_paper_awards.html </p>
 <p>Blog site: http://www.wildml.com/ </p>
 <p>Blog site2: https://bair.berkeley.edu/blog/ </p>
 <p>Blog site3: https://spinningup.openai.com/en/latest/index.html </p>
+<p>DeepMind Research/Blog: https://deepmind.com/research </p>
+<p>Lex podcast: https://lexfridman.com/ai/ </p>
 <p>Introduction ML Package: scikit-learn (out of box and ease of use)</p>
-<p>Advanced ML Packages: PyTorch 1.0, TensorFlow 2.0, MxNet 1.3</p>
+<p>Advanced ML Packages: PyTorch 1.0, TensorFlow 2.0, MxNet 1.5</p>
 
-<h2>Algorithm:</h2>
+
+<h2>Github repo for ML </h2>
+<p>ML in IC: https://github.com/kouroshHakha/bag_deep_ckt </p>
+<p>PathFinding: https://github.com/cair/deep-maze </p>
+<p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
+<p>GNN:  https://github.com/thunlp/GNNPapers </p>
+<p>Baseline: 
+
+<h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>
 <p>Book: MIT "Introduction to Algorithms"</p>
 <p>Site: Leetcode.com </p>
@@ -51,12 +63,13 @@
 <p>Python Package: vispy, bokeh</p>
 <p>Frameworks: grafana, superset</p>
 
-<h2>Quant:</h2>
+<h2>Quant and ML:</h2>
 <p>Introduction Book: "Algorithmic Trading" by Ernie Chan</p>
 <p>Course: Coursera "Quantization Financial" (only one really covers this topic?) </p>
 <p>Paper Site: qwafafew.org</p>
 <p>Resource Site: </p>
 <p>Packages: zipline, pyalgotrade, vnpy, easytrade</p>
+<p>2-sigma: https://www.twosigma.com/insights/article/25-of-our-favorite-papers-talks-presentations-and-workshops-from-nips-2017/ </p>
 
 <h2>DataBase:</h2>
 <p>Introduction Book:</p>
@@ -70,6 +83,7 @@
 <p>Deep Learning Usage Summary: "Deep learning in bioinformatics"(https://academic.oup.com/bib/article/18/5/851/2562808)</p>
 <p>Alternative Deep Learning usage Analysis: "Opportunities and obstacles for deep learning in biology and medicine" (http://rsif.royalsocietypublishing.org/content/15/141/20170387#sec-15) </p>
 <p>Online Course: "Deep Learning in Genomics and Biomedicine" (https://canvas.stanford.edu/courses/51037) </p>
+<p>Bio Paper Site: bioarxiv.org</p>
 
 <p> Gene Sequencing Read:</p>
 <p> Nanopore tech: "The evolution of nanopore sequencing" (https://www.frontiersin.org/articles/10.3389/fgene.2014.00449/full) </p>

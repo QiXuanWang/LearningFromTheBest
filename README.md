@@ -12,8 +12,7 @@
 <p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018 </p>
 <p>Papers: http://www.arxiv-sanity.com/ </p>
 
-<h2>Machine Learning Papers, blogs, frameworks:</h2>
-<p>RL framework: openAI's gym; facebook's ELF; deepmind's pysc2, alphaGo Zero</p>
+<h2>Machine Learning Papers, blogs:</h2>
 <p>Paper Site: arxiv.org</p>
 <p>Paper with Code: https://paperswithcode.com/ </p>
 <p>Paper with cite/references: https://www.semanticscholar.org/paper/ </p>
@@ -23,8 +22,15 @@
 <p>Blog site3: https://spinningup.openai.com/en/latest/index.html </p>
 <p>DeepMind Research/Blog: https://deepmind.com/research </p>
 <p>Lex podcast: https://lexfridman.com/ai/ </p>
-<p>Introduction ML Package: scikit-learn (out of box and ease of use)</p>
-<p>Advanced ML Packages: PyTorch 1.0, TensorFlow 2.0, MxNet 1.5</p>
+<p>Frameworks: PyTorch1.0, TF2.0, Ray </p>
+
+<h2>RL Framework</h2>
+<p>openAI's gym</p>
+<p>facebook's ELF </p>
+<p>deepmind's pysc2 </p>
+<p>Card: https://github.com/datamllab/rlcard </p>
+<p>Portfolio Management(based on Gym): https://github.com/MRYingLEE/Portfolio_GYM </p>
+<p>Portfolio Management(not sure): https://www.slideshare.net/KamerAliYuksel/deep-reinforcement-learning-portfolio-management </p>
 
 
 <h2>Github repo for ML </h2>
@@ -32,7 +38,9 @@
 <p>PathFinding: https://github.com/cair/deep-maze </p>
 <p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
 <p>GNN:  https://github.com/thunlp/GNNPapers </p>
-<p>Baseline: 
+<p>OpenAI Baseline(TF1.x): </p>
+<p>TensorLayer RLZoo(TF2.0) </p>
+<p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
 
 <h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>

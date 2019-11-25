@@ -13,6 +13,7 @@
 <p>Papers: http://www.arxiv-sanity.com/ </p>
 
 <h2>Machine Learning Papers, blogs:</h2>
+<p>Paper Explained: https://towardsdatascience.com/ </p>
 <p>Paper Site: arxiv.org</p>
 <p>Paper with Code: https://paperswithcode.com/ </p>
 <p>Paper with cite/references: https://www.semanticscholar.org/paper/ </p>
@@ -22,7 +23,8 @@
 <p>Blog site3: https://spinningup.openai.com/en/latest/index.html </p>
 <p>DeepMind Research/Blog: https://deepmind.com/research </p>
 <p>Lex podcast: https://lexfridman.com/ai/ </p>
-<p>Frameworks: PyTorch1.0, TF2.0, Ray </p>
+<p>RL blog: https://lilianweng.github.io/lil-log/ </p>
+<p>OpenAI Spinning Up: https://spinningup.openai.com/en/latest/index.html </p>
 
 <h2>RL Framework</h2>
 <p>openAI's gym</p>
@@ -39,8 +41,10 @@
 <p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
 <p>GNN:  https://github.com/thunlp/GNNPapers </p>
 <p>OpenAI Baseline(TF1.x): </p>
-<p>TensorLayer RLZoo(TF2.0) </p>
+<p>Stable Baseline(better Baseline): https://github.com/hill-a/stable-baselines </p>
+<p>TensorLayer RLZoo(TF2.0): https://github.com/tensorlayer/RLzoo </p>
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
+<p>PyTorch Baseline: https://github.com/navneet-nmk/pytorch-rl </p>
 
 <h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>

@@ -2,29 +2,35 @@
 <p>This project is to list the best books, courses, tutorial, methods on learning certain knowledge, for free</p>
 
 <h2>Machine Learning Courses and Books:</h2>
-<p>Introduction Course: Coursera's "Machine Learning" by Andrew Ng. 
-    1. 2008 youtube version is not introducionary
-    2. Do NOT spend time on Octave/Matlab unless you already knew it</p>
+<p>Introduction Course: Coursera's "Machine Learning" by Andrew Ng. </p>
+<p>    1. 2008 youtube version is not introducionary</p>
+<p>    2. Do NOT spend time on Octave/Matlab unless you already knew it</p>
+<p>Introduction Course2(I think this is the best one): Andrew Ng's deeplearing.ai course: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists </p>
+
 <p>Introduction Course 2: Caltech "Learning from Data" by Yasar</p>
 <p>Book on DeepLearning: www.deeplearningbook.com (by now, it's the only one and it's free)</p>
 <p>Book on Reinforcement Learning:  Reinforcement Learning: An Introduction </p>
 <p>Course on Reinforcement Learning: David Silver's course </p>
 <p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018 </p>
-<p>Papers: http://www.arxiv-sanity.com/ </p>
+
 
 <h2>Machine Learning Papers, blogs:</h2>
-<p>Paper Explained: https://towardsdatascience.com/ </p>
-<p>Paper Site: arxiv.org</p>
+<p>Paper trend: http://www.arxiv-sanity.com/ </p>
+<p>Paper with cite/references/categorize: https://www.semanticscholar.org/paper/ </p>
+<p>Paper with review: https://openreview.net/ </p>
+<p>Paper Explained: https://towardsdatascience.com/ </p>w
 <p>Paper with Code: https://paperswithcode.com/ </p>
-<p>Paper with cite/references: https://www.semanticscholar.org/paper/ </p>
-<p>Best papers: https://jeffhuang.com/best_paper_awards.html </p>
-<p>Blog site: http://www.wildml.com/ </p>
-<p>Blog site2: https://bair.berkeley.edu/blog/ </p>
-<p>Blog site3: https://spinningup.openai.com/en/latest/index.html </p>
+<p>Berkeley: https://bair.berkeley.edu/blog/ </p>
+<p>OpenAI: https://spinningup.openai.com/en/latest/index.html </p>
 <p>DeepMind Research/Blog: https://deepmind.com/research </p>
+
+<h2>Personal Blogs </h2>
+<p>RL blog(Onwer is working on bitcoin): http://www.wildml.com/ </p>
 <p>Lex podcast: https://lexfridman.com/ai/ </p>
 <p>RL blog: https://lilianweng.github.io/lil-log/ </p>
-<p>OpenAI Spinning Up: https://spinningup.openai.com/en/latest/index.html </p>
+<p>Best papers collection: https://jeffhuang.com/best_paper_awards.html </p>
+<p>Colah's blog(help to understand LSTM): https://colah.github.io/ </p>
+<p>Someone's collection: https://github.com/number9473/nn-algorithm/issues </p>
 
 <h2>RL Framework</h2>
 <p>openAI gym (most widely used)</p>
@@ -38,16 +44,22 @@
 
 
 <h2>Github repo for ML </h2>
-<p>ML in IC: https://github.com/kouroshHakha/bag_deep_ckt </p>
-<p>PathFinding: https://github.com/cair/deep-maze </p>
-<p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
-<p>GNN:  https://github.com/thunlp/GNNPapers </p>
 <p>OpenAI Baseline(TF1.x): </p>
 <p>Stable Baseline(better Baseline): https://github.com/hill-a/stable-baselines </p>
 <p>TensorLayer RLZoo(TF2.0): https://github.com/tensorlayer/RLzoo </p>
+<p>ML in IC: https://github.com/kouroshHakha/bag_deep_ckt </p>
+<p>PathFinding: https://github.com/cair/deep-maze </p>
+<p>Aleph-Star: https://github.com/imagry/aleph_star </p>
+<p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
+<p>GNN:  https://github.com/thunlp/GNNPapers </p>
+<p>NLP progress: https://github.com/sebastianruder/NLP-progress </p>
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
 <p>PyTorch Baseline: https://github.com/navneet-nmk/pytorch-rl </p>
+<p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
 
+<p> Path Finding </p>
+<p>Combining Q-Learning and Search with Amortized Value Estimates https://arxiv.org/abs/1912.02807 </p>
+<p>Reinforcement Learning with A* and a Deep Heuristic https://arxiv.org/abs/1811.07745 </p>
 
 <h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>

@@ -27,12 +27,14 @@
 <p>OpenAI Spinning Up: https://spinningup.openai.com/en/latest/index.html </p>
 
 <h2>RL Framework</h2>
-<p>openAI's gym</p>
-<p>facebook's ELF </p>
-<p>deepmind's pysc2 </p>
+<p>openAI gym (most widely used)</p>
+<p>openAI procGen: https://openai.com/blog/procgen-benchmark/ </p>
+<p>facebook ELF </p>
+<p>deepmind pysc2 </p>
+<p>deepmind opensiel(C++ and Python, both env and algo): https://github.com/deepmind/open_spiel </p> 
 <p>Card: https://github.com/datamllab/rlcard </p>
 <p>Portfolio Management(based on Gym): https://github.com/MRYingLEE/Portfolio_GYM </p>
-<p>Portfolio Management(not sure): https://www.slideshare.net/KamerAliYuksel/deep-reinforcement-learning-portfolio-management </p>
+<p>Portfolio Management(no git repo): https://www.slideshare.net/KamerAliYuksel/deep-reinforcement-learning-portfolio-management </p>
 
 
 <h2>Github repo for ML </h2>
@@ -45,6 +47,7 @@
 <p>TensorLayer RLZoo(TF2.0): https://github.com/tensorlayer/RLzoo </p>
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
 <p>PyTorch Baseline: https://github.com/navneet-nmk/pytorch-rl </p>
+
 
 <h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>

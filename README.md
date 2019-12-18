@@ -61,8 +61,9 @@
 <p>Combining Q-Learning and Search with Amortized Value Estimates https://arxiv.org/abs/1912.02807 </p>
 <p>Reinforcement Learning with A* and a Deep Heuristic https://arxiv.org/abs/1811.07745 </p>
 
-<p> Object Detection </p>
-<p> https://github.com/yehengchen/Object-Detection-and-Tracking </p>
+<p> Progressive tracking </p>
+<p> Object Detection: https://github.com/yehengchen/Object-Detection-and-Tracking </p>
+<p> RL: http://louiskirsch.com/maps/reinforcement-learning </p>
 
 <h2>General Algorithm:</h2>
 <p>Course: MIT "Introduction to Algorithms"</p>

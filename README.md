@@ -26,12 +26,13 @@
 
 
 <h2>Personal Blogs </h2>
-<p>RL blog(Onwer is working on bitcoin): http://www.wildml.com/ </p>
+<p>RL blog(Onwer is working on bitcoin and stopped updating): http://www.wildml.com/ </p>
 <p>Lex podcast: https://lexfridman.com/ai/ </p>
-<p>RL blog: https://lilianweng.github.io/lil-log/ </p>
+<p>LiLian's RL blog: https://lilianweng.github.io/lil-log/ </p>
+<p>Import AI(recommended by quite some) https://jack-clark.net/ </p>
 <p>Best papers collection: https://jeffhuang.com/best_paper_awards.html </p>
-<p>Colah's blog(help to understand LSTM): https://colah.github.io/ </p>
-<p>Someone's collection: https://github.com/number9473/nn-algorithm/issues </p>
+<p>Colah's blog(famous for LSTM): https://colah.github.io/ </p>
+<p>Someone's paper collection (I'm doing similar): https://github.com/number9473/nn-algorithm/issues </p>
 
 <h2>RL Framework</h2>
 <p>openAI gym (most widely used)</p>

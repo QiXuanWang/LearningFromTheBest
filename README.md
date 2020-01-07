@@ -47,7 +47,7 @@
 
 <h2>Github repo for ML </h2>
 <p>OpenAI Baseline(TF1.x): </p>
-<p>Stable Baseline(better Baseline): https://github.com/hill-a/stable-baselines </p>
+<p>Stable Baseline(better Baseline, with dis/cont comments): https://github.com/hill-a/stable-baselines </p>
 <p>TensorLayer RLZoo(TF2.0): https://github.com/tensorlayer/RLzoo </p>
 <p>ML in IC: https://github.com/kouroshHakha/bag_deep_ckt </p>
 <p>PathFinding: https://github.com/cair/deep-maze </p>

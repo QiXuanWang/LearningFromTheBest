@@ -51,12 +51,12 @@
 <p>TensorLayer RLZoo(TF2.0): https://github.com/tensorlayer/RLzoo </p>
 <p>ML in IC: https://github.com/kouroshHakha/bag_deep_ckt </p>
 <p>PathFinding: https://github.com/cair/deep-maze </p>
-<p>Aleph-Star: https://github.com/imagry/aleph_star </p>
+<p>Alpha-Star: https://github.com/imagry/aleph_star </p>
 <p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
 <p>GNN:  https://github.com/thunlp/GNNPapers </p>
 <p>NLP progress: https://github.com/sebastianruder/NLP-progress </p>
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
-<p>PyTorch Baseline: https://github.com/navneet-nmk/pytorch-rl </p>
+<p>PyTorch Baseline(with c++ implementation too): https://github.com/navneet-nmk/pytorch-rl </p>
 <p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
 
 <p> Path Finding </p>

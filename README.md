@@ -8,6 +8,7 @@
 <p>Introduction Course2(I think this is the best one): Andrew Ng's deeplearing.ai course: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists </p>
 <p>Introduction Course 3: Caltech "Learning from Data" by Yasar</p>
 <p>Introduction Course 4: Fast.ai "Practical Deep Learning for Coders" by Jeremy Howard. It uses PyTorch </p>
+<p>Tutorials on different topics: http://bit.ly/36skFE7 </p>
 <p>Advanced Courses: Stanford cs231n(CNN) and cs224n(NLP) </p>
 <p>Book on DeepLearning: www.deeplearningbook.com (by now, it's the only one and it's free)</p>
 <p>Book on Reinforcement Learning:  Reinforcement Learning: An Introduction </p>

@@ -3,14 +3,16 @@
 
 <h2>Machine Learning Courses and Books:</h2>
 <p>Introduction Course: Coursera's "Machine Learning" by Andrew Ng. </p>
-<p>    1. 2008 youtube version is not introducionary</p>
-<p>    2. Do NOT spend time on Octave/Matlab unless you already knew it</p>
+<p>    -- 2008 youtube version is not introducionary</p>
+<p>    -- Do NOT spend time on Octave/Matlab unless you already knew it</p>
 <p>Introduction Course2(I think this is the best one): Andrew Ng's deeplearing.ai course: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists </p>
 <p>Introduction Course 3: Caltech "Learning from Data" by Yasar</p>
+<p>Introduction Course 4: Fast.ai "Practical Deep Learning for Coders" by Jeremy Howard. It uses PyTorch </p>
+<p>Advanced Courses: Stanford cs231n(CNN) and cs224n(NLP) </p>
 <p>Book on DeepLearning: www.deeplearningbook.com (by now, it's the only one and it's free)</p>
 <p>Book on Reinforcement Learning:  Reinforcement Learning: An Introduction </p>
 <p>Course on Reinforcement Learning: David Silver's course </p>
-<p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018 </p>
+<p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018, UCB CS285 2019 </p>
 <p>How to read ML papers: https://deeps.site/blog/2019/10/14/reading-research-papers-career-advice/ </p>
 
 

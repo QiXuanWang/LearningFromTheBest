@@ -65,6 +65,7 @@
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
 <p>PyTorch Baseline(with c++ implementation too): https://github.com/navneet-nmk/pytorch-rl </p>
 <p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
+<p>Replay Buffers: https://ymd_h.gitlab.io/cpprb/examples/ </p>
 
 <p> Path Finding </p>
 <p>Combining Q-Learning and Search with Amortized Value Estimates https://arxiv.org/abs/1912.02807 </p>

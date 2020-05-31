@@ -100,6 +100,13 @@
 <p>Advanced Book: Python document</p>
 <p>Advanced Tutorial: Stackoverflow</p>
 <p>Packages: NumPy, SciPy, Pandas</p>
+<h3>Python GUI package: </h3>
+<p>Eel:A little Python library for making simple Electron-like HTML/JS GUI apps.(See Electron) https://github.com/samuelhwilliams/Eel </p>
+<p>pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS (wrapper around webview, display it in gui) </p>
+<p>flaskwebgui: Create desktop applications with Flask (light weight and simple webview wrapper) https://github.com/ClimenteA/flaskwebgui</P>
+<p>PySimpleGUI: Create custom layout GUI's simply(convert tkinter, Qt, Remi, WxPython): https://github.com/PySimpleGUI/PySimpleGUI </p>
+
+
 
 
 <h2>JavaScript:</h2>

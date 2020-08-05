@@ -116,7 +116,7 @@
 <h2>DataVisualization(D3):</h2>
 <p>Introduction Book: Oreilly "Interactive Data Visualization for the web" by Scott Murphy</p>
 <p>Web Package: D3</p>
-<p>Python Package: vispy, bokeh</p>
+<p>Python Package: vispy, bokeh, dash(plotly)</p>
 <p>Frameworks: grafana, superset</p>
 
 

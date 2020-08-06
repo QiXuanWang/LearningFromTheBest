@@ -67,6 +67,12 @@
 <p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
 <p>Replay Buffers: https://ymd_h.gitlab.io/cpprb/examples/ </p>
 
+<h2>ML Contest</h2>
+<p>House Price Predicting: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard </p> 
+<p>Power Grid Management: https://l2rpn.chalearn.org/power-grid-in-action </p>
+<p>Kaggle 2-Sigma Financial Modeling: https://www.kaggle.com/c/two-sigma-financial-modeling </p>
+<p>Kaggle 2-Sigma Financial News: https://www.kaggle.com/c/two-sigma-financial-news </p>
+
 <p> Path Finding </p>
 <p>Combining Q-Learning and Search with Amortized Value Estimates https://arxiv.org/abs/1912.02807 </p>
 <p>Reinforcement Learning with A* and a Deep Heuristic https://arxiv.org/abs/1811.07745 </p>

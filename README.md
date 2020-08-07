@@ -66,6 +66,7 @@
 <p>PyTorch Baseline(with c++ implementation too): https://github.com/navneet-nmk/pytorch-rl </p>
 <p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
 <p>Replay Buffers: https://ymd_h.gitlab.io/cpprb/examples/ </p>
+<p>MultiAgent: https://github.com/ChenglongChen/pytorch-MADRL</p>
 
 <h2>ML Contest</h2>
 <p>House Price Predicting: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard </p> 

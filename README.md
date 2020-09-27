@@ -68,6 +68,7 @@
 <p>Alpha-Zero: https://github.com/suragnair/alpha-zero-general </p>
 <p>Replay Buffers: https://ymd_h.gitlab.io/cpprb/examples/ </p>
 <p>MultiAgent: https://github.com/ChenglongChen/pytorch-MADRL</p>
+<p>DGL(from aws): https://github.com/dmlc/dgl </p>
 
 <h2>ML Contest</h2>
 <p>House Price Predicting: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard </p> 

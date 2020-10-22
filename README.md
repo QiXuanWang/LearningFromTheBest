@@ -37,6 +37,7 @@
 <p>Best papers collection: https://jeffhuang.com/best_paper_awards.html </p>
 <p>Colah's blog(famous for LSTM): https://colah.github.io/ </p>
 <p>Someone's paper collection (I'm doing similar): https://github.com/number9473/nn-algorithm/issues </p>
+<p>Pinterest Practical MultiTask AutoML: https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e </p>
 
 <h2>RL Framework</h2>
 <p>openAI gym (most widely used)</p>

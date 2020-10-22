@@ -140,10 +140,12 @@
 <p>Packages: zipline, pyalgotrade, vnpy, easytrade</p>
 <p>2-sigma: https://www.twosigma.com/insights/article/25-of-our-favorite-papers-talks-presentations-and-workshops-from-nips-2017/ </p>
 <p>Financial Sentiment Analysis: github.com/ProsusAI/finBERT </p>
+<p>Sentiment Analysis in Action: http://www.alternative-analytics.eu/dashboard/sentiment.html </p>
 <p>Advances in Financial Machine Learning: https://github.com/hudson-and-thames/research </p>
 <p>NewsCatcher(w/o NLP process): https://github.com/kotartemiy/newscatcher </p>
 
-<h3>Qaunt and ML -- Papers </h3>
+
+<h3>Quant and ML -- Papers </h3>
 <p> Universal features of price formation in financial markets: perspectives from Deep Learning https://arxiv.org/abs/1803.06917 </p>
 
 

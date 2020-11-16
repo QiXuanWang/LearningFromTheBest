@@ -16,6 +16,7 @@
 <p>Course on Advanced Reinforcement Learning: UCB CS294 fall 2017/2018, UCB CS285 2019 </p>
 <p>How to read ML papers: https://deeps.site/blog/2019/10/14/reading-research-papers-career-advice/ </p>
 <p>Deep Bayesian Network: https://github.com/bayesgroup/deepbayes-2019 </p> 
+<p>Data Driver Algorithm Design: https://sites.google.com/view/cs-159-spring-2020/ </p>
 
 
 <h2>Machine Learning Papers, blogs:</h2>

@@ -1,5 +1,6 @@
 # LearningFromTheBest
 <p>This project is to list the best books, courses, tutorial, methods on learning certain knowledge, for free</p>
+<p></p>
 
 <h2>Machine Learning Courses and Books:</h2>
 <p>Introduction Course: Coursera's "Machine Learning" by Andrew Ng. </p>
@@ -19,7 +20,7 @@
 <p>Data Driver Algorithm Design: https://sites.google.com/view/cs-159-spring-2020/ </p>
 
 
-<h2>Machine Learning Papers, blogs:</h2>
+<h2>Machine Learning Papers, blogs, conferences:</h2>
 <p>Paper trend: http://www.arxiv-sanity.com/ </p>
 <p>Paper with cite/references/categorize: https://www.semanticscholar.org/paper/ </p>
 <p>Paper with review: https://openreview.net/ </p>
@@ -28,6 +29,8 @@
 <p>Berkeley: https://bair.berkeley.edu/blog/ </p>
 <p>OpenAI: https://spinningup.openai.com/en/latest/index.html </p>
 <p>DeepMind Research/Blog: https://deepmind.com/research </p>
+<p>CrossMind: https://crossminds.ai/ </p>
+<p>ICML(RL): https://slideslive.com/38930488/modelbased-methods-in-reinforcement-learning-part-1-introduction-learning-models </p>
 
 
 <h2>Personal Blogs </h2>
@@ -64,6 +67,7 @@
 <p>Alpha-Star: https://github.com/imagry/aleph_star </p>
 <p>VIN: https://github.com/kentsommer/pytorch-value-iteration-networks </p>
 <p>GNN:  https://github.com/thunlp/GNNPapers </p>
+<p>GNN(NTU): https://graphdeeplearning.github.io/ </p>
 <p>NLP progress: https://github.com/sebastianruder/NLP-progress </p>
 <p>PyTorch RL: http://github.com/shangtongzhang/DeepRL</p>
 <p>PyTorch Baseline(with c++ implementation too): https://github.com/navneet-nmk/pytorch-rl </p>
@@ -71,9 +75,10 @@
 <p>Replay Buffers: https://ymd_h.gitlab.io/cpprb/examples/ </p>
 <p>MultiAgent: https://github.com/ChenglongChen/pytorch-MADRL</p>
 <p>DGL(from aws): https://github.com/dmlc/dgl </p>
+<p>Karpathy(minGpt is interesting): https://github.com/karpathy </p>
 
 <h2>ML Contest</h2>
-<p>House Price Predicting: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard </p> 
+<p>House Price Predicting(hybrid input): https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard </p> 
 <p>Power Grid Management: https://l2rpn.chalearn.org/power-grid-in-action </p>
 <p>Kaggle 2-Sigma Financial Modeling: https://www.kaggle.com/c/two-sigma-financial-modeling </p>
 <p>Kaggle 2-Sigma Financial News: https://www.kaggle.com/c/two-sigma-financial-news </p>
@@ -118,8 +123,10 @@
 <p>pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS (wrapper around webview, display it in gui) </p>
 <p>flaskwebgui: Create desktop applications with Flask (light weight and simple webview wrapper) https://github.com/ClimenteA/flaskwebgui</P>
 <p>PySimpleGUI: Create custom layout GUI's simply(convert tkinter, Qt, Remi, WxPython): https://github.com/PySimpleGUI/PySimpleGUI </p>
+<p>Tips on profit: https://cryptolens.io/2019/11/tips-on-monetizing-python-applications/ </p>
 
-
+<h2>CPP:</h2>
+<p>C++ FAQ: http://yosefk.com/c++fqa/templates.html </p>
 
 
 <h2>JavaScript:</h2>
@@ -145,6 +152,8 @@
 <p>Sentiment Analysis in Action: http://www.alternative-analytics.eu/dashboard/sentiment.html </p>
 <p>Advances in Financial Machine Learning: https://github.com/hudson-and-thames/research </p>
 <p>NewsCatcher(w/o NLP process): https://github.com/kotartemiy/newscatcher </p>
+<p>Cointegration:  https://github.com/daehkim/pair-trading/blob/master/pairSelection.ipynb </p>
+<p>Pair Trading 1: https://israeldi.github.io/coursework/EECS545/545_Final_Project.pdf </p>
 
 
 <h3>Quant and ML -- Papers </h3>
